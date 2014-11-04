@@ -1,0 +1,32 @@
+body {
+  font-family: Helvetica, sans-serif;
+  padding-bottom: 70px; // isto é para o footer não sobrepor conteúdo
+}
+
+header {
+  background: #479D9A; /* #479D9A, #6F5BB1, #224389, #3AAC1C, #9C1A72, #CD2E22 */
+  padding: 20px 0;
+}
+
+header h1 {
+  font-size: 300%;
+  color: #E7E7E7;
+  margin: 35px 0 10px;
+  text-transform: capitalize;
+  text-align: left;
+}
+
+
+#content {
+
+}
+
+footer .navbar {
+  background: #479D9A;
+  padding: 10px 0 0;
+}
+
+footer p {
+  color: #E7E7E7;
+  text-align: center;
+}
